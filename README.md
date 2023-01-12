@@ -8,4 +8,4 @@ DEPENDENCIES:
 2. npm install react-icons --save
 
 
-DEPLOYMENT: This project is deployed in netlify server https://sonalsinghstudentattendancesystem.netlify.app/
+DEPLOYMENT: This project is deployed in netlify server https://sonalsingh-aimed-labs-assignment.netlify.app/
